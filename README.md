@@ -16,7 +16,8 @@ pkgman refresh
 pkgman install <package>
 ```
 
-The haiku-pi images already include this repository.
+The haiku-pi images are configured with it as their `HaikuPorts` repository (`pkgman refresh` works out
+of the box); on other arm64 Haiku installations, add it as above.
 
 ## Sources
 
