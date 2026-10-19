@@ -1,0 +1,7 @@
+name haiku-pi
+vendor "Haiku Project"
+summary "Packages of the Haiku port to the Raspberry Pi 4 (arm64)"
+priority 2
+baseurl https://haiku-pi.github.io/packages/arm64
+identifier tag:github.com/haiku-pi,2026:repositories/haiku-pi/arm64
+architecture arm64
